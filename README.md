@@ -13,3 +13,5 @@ Complete sections 0-3 on SQL Zoo and paste a copy of each query in the `practice
 :zap::collision: BONUS :collision::zap:
 
 Complete section 6 - JOINS and paste the answers in `practice.sql`
+
+🚨 HOMEWORK IS DUE AT **11PM** TONIGHT - JUNE 3RD 🚨
