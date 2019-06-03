@@ -8,7 +8,7 @@ Open up the `practice.sql` file and do all of your work in there. You will be te
 
 :zap:COMPLETION:zap:
 
-Complete sections 0-5 on SQL Zoo and paste a copy of each query in the `practice.sql` file
+Complete sections 0-3 on SQL Zoo and paste a copy of each query in the `practice.sql` file
 
 :zap::collision: BONUS :collision::zap:
 
