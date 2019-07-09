@@ -10,8 +10,4 @@ Open up the `practice.sql` file and do all of your work in there. You will be te
 
 Complete sections 0-3 on SQL Zoo and paste a copy of each query in the `practice.sql` file
 
-:zap::collision: BONUS :collision::zap:
-
-Complete section 6 - JOINS and paste the answers in `practice.sql`
-
-🚨 HOMEWORK IS DUE AT **11PM** TONIGHT - JUNE 3RD 🚨
+Try section 6 - JOINS (if you don't get them all, that's ok) and paste the answers in `practice.sql`
