@@ -8,7 +8,7 @@ Open up the `practice.sql` file and do all of your work in there. You will be te
 
 ## INSTRUCTIONS
 
-- Complete sections 0-3 on SQL Zoo (including the 'harder questions') and paste a copy of each query in the `practice.sql` file
+- Complete sections 0-3 on SQL Zoo and paste a copy of each query in the `practice.sql` file
 
 - Try section 6 - JOINS (if you don't get them all, that's ok) and paste the answers in `practice.sql`
 
