@@ -1,19 +1,24 @@
 -- SECTION 0 - SELECT BASICS
 
 --Modify it to show the population of Germany
-1. 
- 
- -- Show the name and the population for 'Sweden', 'Norway' and 'Denmark'.
-2. 
+-- 1. 
 
+ SELECT population FROM world
+  WHERE name = 'Germany'
+
+ -- Show the name and the population for 'Sweden', 'Norway' and 'Denmark'.
+-- 2. 
+SELECT name, population FROM world
+  WHERE name IN ('Sweden', 'Norway', 'Denmark');
+  
 -- Modify it to show the country and the area for countries with an area between 200,000 and 250,000.
-3. 
+-- 3. 
 
 
 -- SECTION 1 - SELECT NAME
 
 --Find the country that start with Y
-1. 
+-- 1. 
 
 -- Find the countries that end with y
 2. 
